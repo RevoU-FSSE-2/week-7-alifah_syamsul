@@ -39,3 +39,7 @@ npx tsc main.ts
 ## Usage
 
 Enter the present value of your investment, the annual interest rate, and the number of years you plan to hold the investment into the corresponding fields. Click "Calculate" to compute the future value of your investment. The result will be displayed below the button, and all previous results will also remain visible for comparison.
+
+## Deployment
+
+This webpage is deployed in https://astonishing-gelato-91e207.netlify.app/
